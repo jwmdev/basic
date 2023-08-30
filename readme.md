@@ -1,2 +1,2 @@
-# Basic sample go system
+# Sample go system
 
